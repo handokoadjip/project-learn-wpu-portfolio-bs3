@@ -5,7 +5,7 @@
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/handokoadjipangestu/project-learn-wpu-portfolio-bs3/fork)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-This project is a dummy portfolio created using html, css, and js
+This project is a dummy portfolio created using html, css, and js.
 
 This portfolio is made to learn bootstrap 3 and css. according to the name of the exercise, it is made using [Bootstrap 3.\*](https://getbootstrap.com/docs/3.3/) framework.
 
